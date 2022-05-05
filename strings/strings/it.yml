@@ -56,16 +56,16 @@ afk_5: "`Andando AFK.`\n\n
 afk_6: "Sto andando AFK."
 
 # bot
-alive_1: "**L'Ultroid Userbot...**\n\n
+alive_1: "**🏋️...**\n\n
 **{}**\n\n
 ┏━━━━━━━━━━━━━━━━━━━━━\n
-┣ **Owner** - `{}`\n
-┣ **Version** - `{}`\n
-┣ **Py-Ultroid** - `{}`\n
-┣ **UpTime** - `{}`\n
-┣ **Python** - `{}`\n
-┣ **Telethon** - `{}`\n
-┣ **Branch** - `{}`\n
+┣ Owner - `{}`\n
+┣ Versione - `{}`\n
+┣ Py-Version - `{}`\n
+┣ UpTime - `{}`\n
+┣ Python - `{}`\n
+┣ Telethon - `{}`\n
+┣ Branch - `{}`\n
 ┗━━━━━━━━━━━━━━━━━━━━━"
 log: "**Heroku** Logs di Ultroid.\nIncollati [qui]({})!"
 ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`"
